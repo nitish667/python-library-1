@@ -20,3 +20,4 @@ b = a.copy()
 
 a[0] = 99
 print(b)   # no change
+
